@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe assembly.
+Committing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe assembly.
+Committing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe assembly.
+Remove InstallState file because there are no installers.

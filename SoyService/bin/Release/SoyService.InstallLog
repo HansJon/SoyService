@@ -1,0 +1,110 @@
+﻿Installing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Installing service SoyService...
+Service SoyService has been successfully installed.
+Creating EventLog source SoyService in log Application...
+Committing assembly 'C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = C:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Uninstalling assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Removing EventLog source SoyService.
+Service SoyService is being removed from the system...
+Service SoyService was successfully removed from the system.
+Installing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Installing service SoyService...
+Service SoyService has been successfully installed.
+Creating EventLog source SoyService in log Application...
+Committing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Uninstalling assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Removing EventLog source SoyService.
+Service SoyService is being removed from the system...
+Service SoyService was successfully removed from the system.
+Installing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Installing service SoyService...
+Creating EventLog source SoyService in log Application...
+Rolling back assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Restoring event log to previous state for source SoyService.
+Installing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Installing service SoyService...
+Service SoyService has been successfully installed.
+Creating EventLog source SoyService in log Application...
+Committing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Uninstalling assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Removing EventLog source SoyService.
+Service SoyService is being removed from the system...
+Service SoyService was successfully removed from the system.
+Installing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Installing service SoyService...
+Service SoyService has been successfully installed.
+Creating EventLog source SoyService in log Application...
+Committing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Uninstalling assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\soyservice.exe
+Removing EventLog source SoyService.
+Service SoyService is being removed from the system...
+Service SoyService was successfully removed from the system.
+Installing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+Installing service SoyService...
+Service SoyService has been successfully installed.
+Creating EventLog source SoyService in log Application...
+Committing assembly 'c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.InstallLog
+   assemblypath = c:\Users\Neal\Documents\Visual Studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe

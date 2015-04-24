@@ -1,0 +1,6 @@
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe.config
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.exe
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Debug\SoyService.pdb
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Debug\SoyService.csprojResolveAssemblyReference.cache
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Debug\SoyService.exe
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Debug\SoyService.pdb

@@ -1,0 +1,8 @@
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe.config
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.exe
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\bin\Release\SoyService.pdb
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Release\SoyService.exe
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Release\SoyService.pdb
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Release\SoyService.csprojResolveAssemblyReference.cache
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Release\SoyService.ProjectInstaller.resources
+c:\users\neal\documents\visual studio 2013\Projects\SoyService\SoyService\obj\Release\SoyService.csproj.GenerateResource.Cache
